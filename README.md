@@ -52,7 +52,7 @@ ssl_fundus/
 
 Open `SSL_Fundus_Pipeline.ipynb` in Colab for a self-contained demo:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SanjuktaK/ssl-fundus-classification/blob/main/SSL_Fundus_Pipeline.ipynb)
 
 ## CLI Usage
 
